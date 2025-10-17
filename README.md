@@ -1,4 +1,4 @@
-# Desafío Técnico --- Desarrollador Backend Senior (Node.js / NestJS / TypeScript)
+# Desafío Técnico - Desarrollador Backend Senior (Node.js / NestJS / TypeScript)
 
 ### Introducción
 
